@@ -1,4 +1,4 @@
 # apna-clg
 This is my first repository.
 <br>
-Author = Arti Kushwaha
+Author = Arti Kushwaha(akash)
